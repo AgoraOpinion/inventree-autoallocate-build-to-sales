@@ -1,0 +1,4 @@
+__pycache__/
+.eggs
+inventree_autoallocate_build_to_sales.egg-info
+inventree_autoallocate_build_to_sales/__pycache__/*
