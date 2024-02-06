@@ -6,3 +6,5 @@
 This plugin allow to allocate automatically build order to sales order when it's completed
 
 ## Installation
+
+pip install git+https://github.com/AgoraOpinion/inventree-autoallocate-build-to-sales
