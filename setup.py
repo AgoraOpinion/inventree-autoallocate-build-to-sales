@@ -24,7 +24,7 @@ setuptools.setup(
 
     license="MIT",
 
-    url="https://taqt.com",
+    url="https://github.com/AgoraOpinion/inventree-autoallocate-build-to-sales",
 
     packages=setuptools.find_packages(),
 
